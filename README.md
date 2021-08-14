@@ -12,3 +12,7 @@ Another test message inside this
 This is the part that i add
 
 This is also a sample web project
+
+###Copyright
+
+2014.Git.Training.
