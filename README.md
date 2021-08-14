@@ -8,6 +8,10 @@ This is another sample of test
 Sample website with plenty of files for demos
 Another test message inside this
 
+## How to Contribute
+
+Just add this fork repository
+
 #Deployment
 This is the part that i add
 
