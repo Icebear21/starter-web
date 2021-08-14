@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    MM 	MM@Node.js
 
 # THANKS
 
