@@ -21,3 +21,4 @@ This is also a sample web project
 ###Copyright
 
 2014.Git.Training.
+All rights reserved.
